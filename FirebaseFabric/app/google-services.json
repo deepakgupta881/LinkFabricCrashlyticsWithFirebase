@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "117419636752",
+    "firebase_url": "https://fir-fabricdemo.firebaseio.com",
+    "project_id": "fir-fabricdemo",
+    "storage_bucket": "fir-fabricdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117419636752:android:fcdf0a8ff48b2dad",
+        "android_client_info": {
+          "package_name": "com.example.deepak.firebasefabricdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117419636752-f9775ndu5h5d9q3q44v5vogaan811hie.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK8rTZrDymg3vweU_BX36CIfyrX6ZnopE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
